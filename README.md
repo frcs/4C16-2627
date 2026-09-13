@@ -45,3 +45,12 @@ below:
 
 * [Python 3 resources ](/handouts/PreparationPython3.pdf)
 
+## 00 - Introduction
+
+* [pdf slides](/handouts/handout-00-intro.pdf)
+
+## 01 - Linear Regression/Least Squares
+
+* [pdf slides](/handouts/handout-01-linear-regression.pdf)
+* [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf) ([solutions](/handouts/tutorial-00-linear-algebra-solutions.pdf))
+* [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf) ([solutions](/handouts/tutorial-01-linear-regression-solutions.pdf))
