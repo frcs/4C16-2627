@@ -1,4 +1,4 @@
-# 4C16-2526
+# 4C16-2026/27
 
 4C16/5C16 is course on Machine Learning (ML), with a focus on Deep
 Learning. It is a fourth and fifth year module offered by the
