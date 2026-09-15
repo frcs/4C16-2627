@@ -45,6 +45,11 @@ below:
 
 * [Python 3 resources ](/handouts/PreparationPython3.pdf)
 
+The lab system handbook and instructions for lab 0 can be found here:
+
+* [Lab system handbook](/handouts/4c16-lab-system-handbook.pdf)
+
+
 ## 00 - Introduction
 
 * [pdf slides](/handouts/handout-00-intro.pdf)
