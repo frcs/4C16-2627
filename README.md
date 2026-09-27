@@ -60,8 +60,10 @@ The lab system handbook and instructions for lab 0 can be found here:
 * [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf) ([solutions](/handouts/tutorial-00-linear-algebra-solutions.pdf))
 * [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf) ([solutions](/handouts/tutorial-01-linear-regression-solutions.pdf))
 
-
 ## 02 - Logistic Regression
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
 
+## 03 - Classic Classifiers
+
+* [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
