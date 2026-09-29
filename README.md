@@ -67,3 +67,7 @@ The lab system handbook and instructions for lab 0 can be found here:
 ## 03 - Classic Classifiers
 
 * [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
+
+## 04 - Evaluating Classifier Performance
+
+* [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
