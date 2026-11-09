@@ -83,3 +83,7 @@ The lab system handbook and instructions for lab 0 can be found here:
 ## 07 - Advances in Network Architectures and Training
 
 * [pdf slides](/handouts/handout-07-advances-in-network-architectures.pdf)
+
+## 08 - Recurrent Neural Networks
+
+* [pdf slides](/handouts/handout-08-recurrent-neural-networks.pdf)
