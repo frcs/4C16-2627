@@ -87,3 +87,7 @@ The lab system handbook and instructions for lab 0 can be found here:
 ## 08 - Recurrent Neural Networks
 
 * [pdf slides](/handouts/handout-08-recurrent-neural-networks.pdf)
+* [non-examinable material on word embeddings](/handouts/word-embeddings.pdf) 
+
+
+
