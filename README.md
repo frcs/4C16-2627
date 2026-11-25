@@ -101,5 +101,9 @@ The lab system handbook and instructions for lab 0 can be found here:
 
 * [pdf slides](/handouts/handout-11-large-language-models.pdf)
 
+## 12 - Physical Limits of AI
+
+* [pdf slides](/handouts/handout-12-physical-limits.pdf)
+
 
 
